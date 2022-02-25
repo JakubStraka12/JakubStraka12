@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JakubStraka12
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m Jakub Straka.
+- 👀 I’m interested in Java, HTML, CSS, JavaScript, Spring Boot, MySQL, Git, GitHub and Docker.
+- My favorite IDE is IntelliJ IDEA.
 
 
 <!---
